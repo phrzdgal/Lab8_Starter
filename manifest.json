@@ -2,8 +2,8 @@
     "name": "Lab8_Starter",
     "short_name": "Phiroze",
     "description": "Lab 8 recipe PWA",
-    "start_url": "https://phrzdgal.github.io/Lab8-Starter/",
-    "display": "fullscreen",
+    "start_url": "/Lab8-Starter/",
+    "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
     "icons": [
