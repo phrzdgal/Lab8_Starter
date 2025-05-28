@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Phiroze",
     "description": "Lab 8 recipe PWA",
-    "start_url": "/Lab8-Starter/",
+    "start_url": "/Lab8_Starter/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#4CAF50",
